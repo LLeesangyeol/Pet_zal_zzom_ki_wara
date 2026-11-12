@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins*
+.packages
+build/
+.idea/
+*.iml
+.DS_Store
+android/.gradle/
+ios/Pods/
+ios/Flutter/ephemeral/
+assets/models/*.gguf
